@@ -2,5 +2,6 @@ In this project we have applied key front end concepts by consuming an API throu
 If you want to get to know more about this project just check this out by clicking at the image.png below!  
 
 # apimovies01!
+
 ![apimovies01 ezgif com-gif-maker](https://user-images.githubusercontent.com/85713266/179327011-a1734056-d765-46fc-bba9-edc6d1de3b82.gif)
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/85713266/179327261-16569ffe-fdce-4cd0-ba0a-b8e114752e90.gif)
